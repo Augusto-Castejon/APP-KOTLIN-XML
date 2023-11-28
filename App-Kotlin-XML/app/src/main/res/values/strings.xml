@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prova 01 parte 01 Mateus e Augusto</string>
+    <string name="gerenciador_de_neg_cios">Gerenciador de negócios</string>
+    <string name="inserir">Inserir</string>
+    <string name="alterar">Alterar</string>
+    <string name="remover">Remover</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="valor_total">Valor Total</string>
+</resources>
